@@ -1,0 +1,11 @@
+# Ignore the node _modules directory
+/node_modules
+/Project_2 ATM
+
+# Ignore any built TypeScript files (JavaScript output)
+/dist
+
+# Ignore editor/IDE_specific files and directories 
+.vscode 
+.idea
+.DS_Store
